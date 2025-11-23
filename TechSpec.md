@@ -2,7 +2,7 @@
 
 ## 1. Ringkasan Proyek
 
-**Nama Proyek:** DonasiChain (nama sementara)  
+**Nama Proyek:** 3DONASI 
 **Jenis Aplikasi:** Web3 Donation dApp  
 **Deskripsi:**
 DonasiChain adalah aplikasi donasi berbasis blockchain yang memungkinkan pengguna melakukan donasi menggunakan cryptocurrency (ETH). Semua data donasi disimpan di smart contract secara transparan. Owner dapat menarik dana (withdraw) kapan saja melalui fungsi khusus.
