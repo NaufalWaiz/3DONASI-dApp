@@ -1,4 +1,4 @@
-# DonasiChain
+# 3DONASI
 
 Implementasi MVP untuk aplikasi donasi berbasis Web3 sesuai `TechSpec.md`. Repo ini memisahkan smart contract dan front-end.
 
