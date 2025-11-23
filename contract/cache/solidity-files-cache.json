@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\MyBook Hype AMD\\Documents\\BELAJAR\\web3-belajar\\contract\\contracts\\DonasiChain.sol": {
+      "lastModificationDate": 1763634128333,
+      "contentHash": "3ec194c1b3021a7f6b0bb534163ba6c2",
+      "sourceName": "contracts/DonasiChain.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "DonasiChain"
+      ]
+    }
+  }
+}
